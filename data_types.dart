@@ -1,4 +1,4 @@
-void main(List<String> arguments){
+void main(){
   // numbers
   int score = 23;
   var count = 20;
